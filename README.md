@@ -19,7 +19,7 @@
 
 请求`/test/`，文件下载速度测试
 
-![image](https://cdn.jsdelivr.net/gh/DaoChen6/Heroku-v2ray/doc/3.png)
+![image](https://cdn.jsdelivr.net/gh/hetewsja/Wvdys)
 
 请求`/ray`（可配置）v2ray websocket路径
 
